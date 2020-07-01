@@ -31,7 +31,7 @@ export default function ButtonAppBar() {
            <span className="corona"><span className="c">C</span>orona</span>  <span className="track">Tracker</span>
           </Typography>
           <Link className="nav" color="inherit"  to='/'>Home</Link>
-          <Link className="nav" color="inherit"  to='/Record'>Dynamic Data</Link>
+          <Link className="nav" color="inherit"  to='/Record'>Data</Link>
         </Toolbar>
       </AppBar>
     </div>
